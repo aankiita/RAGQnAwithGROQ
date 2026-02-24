@@ -1,0 +1,25 @@
+langchain-openai
+langchain_groq
+python-dotenv
+langchain-community
+langchain_community
+langchain_core
+streamlit
+langchain
+langchain-text-splitters
+langchain-huggingface
+langchain_huggingface
+langchain-chroma
+
+#Vector Database
+faiss-cpu
+
+#Embedding
+sentence-transformers
+langchain-text-splitters
+
+#Document loaders
+pypdf
+pymupdf
+bs4
+arxiv
