@@ -2,6 +2,7 @@
 
 we are using Ollama and HuggingFace for vector embeddings and Groq as the LLM model.
 
-live demo-(HuggingFace Embedding)--error https://ragqnawithgroq-exf5h7rfcmquauvbaac3t4.streamlit.app/
+live demo-(HuggingFace Embedding)-- https://ragqnawithgroq-7mpouq5wzmzw3dfylfa2wx.streamlit.app/
 
-live demo-(Ollama Vector Embedding)- erorr https://ragqnawithgroq-juj5zjp6fyqt3qeeqvbd9n.streamlit.app/
+live demo-(Ollama Vector Embedding)-  https://ragqnawithgroq-rayt2dfmexu8ryjwrxufkr.streamlit.app/
+
